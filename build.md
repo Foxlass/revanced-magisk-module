@@ -8,10 +8,5 @@ Patches: revanced-patches-2.93.0.jar
 
   
 Music (arm64-v8a): 5.29.52  
-Music (arm-v7a): 5.29.52  
-Twitter: 9.65.1-release.0  
-Reddit: 2022.40.0  
-TikTok: 26.7.2  
-Spotify: 8.7.78.373  
 
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)  
